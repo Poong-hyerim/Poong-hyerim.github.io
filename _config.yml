@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mary's_record(in USC)
+name: I'm_Mary🐰
 
 # Short bio or description (displayed in the header)
-description: 07.03-07.31
+description: 07.03-07.31 in USC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars.githubusercontent.com/Poong-hyerim.png
-
+avatar: https://avatars.githubusercontent.com/u/82091932?s=400&u=74047c9ab1bc77e2d5f483cb96e1618d40b6308f&v=4.png
 #
 # Flags below are optional
 #
@@ -26,7 +25,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
