@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: I'm_Mary🐰
+name: Mary's USC Diary🐰
 
 # Short bio or description (displayed in the header)
 description: 07.03-07.31 in USC
@@ -17,7 +17,7 @@ avatar: https://avatars.githubusercontent.com/u/82091932?s=400&u=74047c9ab1bc77e
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: poonghrdd@gmail.com
   facebook:
   flickr:
   github: Poong-hyerim
@@ -83,3 +83,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  
